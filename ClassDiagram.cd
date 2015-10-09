@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Server_Rebuild_3Dlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CServer_Rebuild_3App" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Server_Rebuild_3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CServer_Rebuild_3Dlg" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAEAAAAAAAAAABAAAAAAAAAAAAQAAEIAAAAQQAA=</HashCode>
+      <FileName>Server_Rebuild_3Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CZQAcceptThread" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAEAQQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQAcceptThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CZQCustomClient" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CoAQABEACARQkgICAAAAAAAEAAAAAGAAACAAATCIAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CZQCustomIOCPServer" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KYAAAIIAAQAAAQAYAABAAIAAiAAAgEAAAAAAAgAAAAQ=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomIOCPServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CZQWorkThread" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAwQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQWorkThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CZQThread" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAAEAAEAQAQQAIAAAAAgAGAAAASAAAAAECAgEEAA=</HashCode>
+      <FileName>G:\MC++\Library\Thread\ZQThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainThread" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAQAAABAIAAAAAAAAQAAABBAAAAAgAA=</HashCode>
+      <FileName>MainThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMessageClient" Collapsed="true">
+    <Position X="2.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAQAJAoAAAAAAAIIAAAAAAAA=</HashCode>
+      <FileName>MessageClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMessageServer" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>MessageServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="__ClientSendDataNodetag" Collapsed="true">
+    <Position X="7" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAAAAAAAAAAAAAAAAAAQAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomClient.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__Blocktag" Collapsed="true">
+    <Position X="5.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABACAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomIOCPServer.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_Default_Message_tag" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAQAAAASAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>MessageServer.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__Client_Message_tag">
+    <Position X="3.25" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAQAAAAACAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>MessageServer.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="ClientSendDataNode" Collapsed="true">
+    <Position X="7" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomClient.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="pClientSendData" Collapsed="true">
+    <Position X="9" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomClient.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="OnSocketNotifyEvent" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomIOCPServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="OnSocketConnectNotifyEvent" Collapsed="true">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomIOCPServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="OnSocketReadNotifyEvent" Collapsed="true">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomIOCPServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="OnSocketWriteNotifyEvent" Collapsed="true">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomIOCPServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="OnCreateSocketClientNotifyEvent" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomIOCPServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="IoOperator" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomIOCPServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Block" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomIOCPServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="pBlock" Collapsed="true">
+    <Position X="5.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomIOCPServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="DefaultMessage" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MessageServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="pDefaultMessage" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MessageServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="DefaultClientMessge" Collapsed="true">
+    <Position X="1.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MessageServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="pDefaultClientMessage" Collapsed="true">
+    <Position X="3.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MessageServer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_enum_024a_1" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAgAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\MC++\Library\SocketServer\ZQCustomIOCPServer.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
